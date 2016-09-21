@@ -1,10 +1,10 @@
 ## Project: Linux Server Configuration - Alessandro Giacomini
 ### Description
 -----------------------------------
-I configured a secured remote virtual machine to host a databse server, and web appllications which are data driven. This was accomlished through a provided Linux distribution by [Udacity](https://www.udacity.com), and an installed Apache2 server to serve Python Flask application that connects to PostgresSQL database.
+I configured a secured remote virtual machine to host a databse server, and web appllications which are data driven. This was accomplished by using a provided Linux distribution by [Udacity](https://www.udacity.com), and an installed Apache2 server to serve Python Flask application that connects to PostgresSQL database.
 
 The project deploys [tripNet App](https://github.com/AlessandroGiacomini/tripNet) on the virtual machine
-It is reacheable under the AWS - server at ec2-54-70-175-224.us-west-2.compute.amazonaws.com
+It is reacheable under the AWS - server at: ec2-54-70-175-224.us-west-2.compute.amazonaws.com
 
 ### Project Access
 -----------------------------------
