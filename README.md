@@ -6,8 +6,6 @@ I configured a secured remote virtual machine to host a databse server, and web 
 The project deploys [tripNet App](https://github.com/AlessandroGiacomini/tripNet) on the virtual machine
 It is reacheable under the AWS - server at ec2-54-70-175-224.us-west-2.compute.amazonaws.com
 
-**Note** : The result is reached but if you are viewing this page, and trying to access the website via the IP links, the website might be off the live server
-
 ### Project Access
 -----------------------------------
 ##### IP address
